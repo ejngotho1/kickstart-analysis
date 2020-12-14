@@ -1,3 +1,3 @@
 # kickstart-analysis
-Funding and pledges analysis for Louise's play
-aUploading completed kickstart analysis
+Funding and pledges analysis for Louise's play and
+Uploading completed kickstart analysis
